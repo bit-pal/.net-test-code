@@ -1,0 +1,32 @@
+# Build
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.scc
+*.sln.docstates
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# IDE
+.idea/
+.vs/
+*.rsuser
+
+# User-specific
+*.userprefs
